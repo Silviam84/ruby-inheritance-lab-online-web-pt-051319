@@ -1,4 +1,5 @@
 class User
-  first name
+  first_name=
+  @first_name
   
 end
