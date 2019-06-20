@@ -1,2 +1,4 @@
-class User 
+class User
+  first name
+  
 end
