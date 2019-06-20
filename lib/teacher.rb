@@ -1,4 +1,5 @@
-class Teacher < request_via_redirect
+class Teacher < Use 
+end
 
   
 end
